@@ -1,4 +1,4 @@
 // TODO: write your code here
-import Validator from './Validator.js';
+import ErrorRepository from './ErrorRepository.js';
 
 console.log('Работает');
